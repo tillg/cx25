@@ -22,7 +22,7 @@ cx25 (cardXchange 2025) is a SwiftUI iOS app for digital business card sharing a
 
 ### Building and Running
 ```bash
-# Open project in Xcode
+# Open project in Xcode 
 open cx25/cx25.xcodeproj
 
 # Build from command line
