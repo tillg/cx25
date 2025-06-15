@@ -23,3 +23,4 @@ cx25 stands for _cardXchange 2025_ and is the remake of our 2001 cardXchange ide
 * From then on my cx-card is maintained in my Contacts.
 * When my linked users change their data, I can choose to update it within my contacts - or not.
 
+Test from Philip
